@@ -10,8 +10,8 @@
 - [LBFGS](https://machinelearningmastery.com/bfgs-optimization-in-python/)
 
 ## Todo
-- [x](Optimization Based)
-- [ ](Feed Forward Based)
+- [x] Optimization Based
+- [ ] Feed Forward Based
 
 ## References :
 ### Paper :
