@@ -1,5 +1,15 @@
 # Neural-Style-Transfer
 
+## Theory
+### Types :
+- Optimization Based
+- Feed Forward Based
+
+### Optimizers for NST
+- Adam
+- LMBFGS
+
+
 ## References :
 ### Paper :
 1. [Origial Artistic Style NST Paper, arXiv, old](https://arxiv.org/abs/1508.06576)
