@@ -7,9 +7,9 @@
 
 ### Blog & Tutorial :
 1. Image Stylization :
-  * [Part 1](https://research.adobe.com/news/image-stylization-history-and-future/)
-  * [Part 2](https://research.adobe.com/news/image-stylization-history-and-future-part-2/)
-  * [Part 3](https://research.adobe.com/news/image-stylization-history-and-future-part-3/)
+   * [Part 1](https://research.adobe.com/news/image-stylization-history-and-future/)
+   * [Part 2](https://research.adobe.com/news/image-stylization-history-and-future-part-2/)
+   * [Part 3](https://research.adobe.com/news/image-stylization-history-and-future-part-3/)
 
 ### Code :
 
