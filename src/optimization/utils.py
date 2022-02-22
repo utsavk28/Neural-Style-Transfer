@@ -1,12 +1,9 @@
 import torch
-from torch.optim import Adam, LBFGS
-from torch.autograd import Variable
 import numpy as np
 import os
 import cv2 as cv
 import numpy as np
 from torchvision import transforms
-import matplotlib.pyplot as plt
 from models import Vgg16
 
 IMAGENET_MEAN_255 = [123.675, 116.28, 103.53]
