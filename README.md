@@ -6,9 +6,8 @@
 - Feed Forward Based
 
 ### Optimizers for NST
-- Adam
-- LMBFGS
-
+- [Adam](https://machinelearningmastery.com/adam-optimization-algorithm-for-deep-learning/#:~:text=Adam%20is%20a%20replacement%20optimization,sparse%20gradients%20on%20noisy%20problems.)
+- [LBFGS](https://machinelearningmastery.com/bfgs-optimization-in-python/)
 
 ## References :
 ### Paper :
