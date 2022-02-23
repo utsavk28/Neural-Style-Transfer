@@ -13,14 +13,14 @@
 
 ## Results :
 
-<table border="5" align="center">
+<table align="center">
     <tr>
         <th>Content Image</th>
         <th>Style Image</th>
         <th>Result </th>
     </tr>
     <tr>
-        <td><img src="./images/images/input/content/stata.jpg"></img></th>
+        <td><img src="./images/input/content/stata.jpg"></img></th>
         <td><img src="./images/input/style/wave.jpg"></img></th>
         <td><img src="./images/output/content/stata-wave/stata-wave.jpg" ></img></th>
     </tr>
