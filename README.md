@@ -35,14 +35,14 @@
     <tr>
         <td>Random-Optimization Based</td>
         <td><img src="./images/input/content/stata.jpg"></img></th>
-        <td><img src="./images/input/style/la_muse.jpg"></img></th>
-        <td><img src="./images/output/random/stata-la_muse/stata-la_muse.jpg" ></img></th>
+        <td><img src="./images/input/style/udnie.jpg"></img></th>
+        <td><img src="./images/output/random/stata-udnie/stata-udnie.jpg" ></img></th>
     </tr>
     <tr>
         <td>Content-Optimization Based</td>
         <td><img src="./images/input/content/stata.jpg"></img></th>
-        <td><img src="./images/input/style/la_muse.jpg"></img></th>
-        <td><img src="./images/output/content/stata-la_muse/stata-la_muse.jpg" ></img></th>
+        <td><img src="./images/input/style/udnie.jpg"></img></th>
+        <td><img src="./images/output/content/stata-udnie/stata-udnie.jpg" ></img></th>
     </tr>
 </table>
 
