@@ -10,11 +10,28 @@
 - [LBFGS Optimizer](https://machinelearningmastery.com/bfgs-optimization-in-python/)
 - [Perceptual Loss](https://deepai.org/machine-learning-glossary-and-terms/perceptual-loss-function)
 - [Instance Normalization](https://becominghuman.ai/all-about-normalization-6ea79e70894b)
-- 
+
+## Results :
+
+<table border="5" align="center">
+    <tr>
+        <th>Content Image</th>
+        <th>Style Image</th>
+        <th>Result </th>
+    </tr>
+    <tr>
+        <td><img src="../images/images/input/content/stata.jpg" alt="" border=3 height=100 width=300></img></th>
+        <td><img src="../images/input/style/wave.jpg" alt="" border=3 height=100 width=300></img></th>
+        <td><img src="../images/output/content/stata-wave/stata-wave.jpg" alt="" border=3 height=100 width=300></img></th>
+    </tr>
+</table>
+
 
 ## Todo
 - [x] Optimization Based
 - [ ] Feed Forward Based
+
+
 
 ## References :
 ### Paper :
