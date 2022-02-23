@@ -1,9 +1,10 @@
 # Neural-Style-Transfer
+Neural style transfer is a technique used to take two images—a content image and a style reference image (such as an artwork by a famous painter)—and blend them together so the output image looks like the content image, but “painted” in the style of the style reference image.
 
 ## Theory
 ### Types :
-- Optimization Based
-- Feed Forward Based
+- Optimization Based 
+- Feed Forward Based 
 
 ### Concepts
 - [Adam Optimizer](https://machinelearningmastery.com/adam-optimization-algorithm-for-deep-learning/#:~:text=Adam%20is%20a%20replacement%20optimization,sparse%20gradients%20on%20noisy%20problems.)
