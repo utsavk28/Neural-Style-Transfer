@@ -20,9 +20,9 @@
         <th>Result </th>
     </tr>
     <tr>
-        <td><img src="../images/images/input/content/stata.jpg" alt="" border=3 height=100 width=300></img></th>
-        <td><img src="../images/input/style/wave.jpg" alt="" border=3 height=100 width=300></img></th>
-        <td><img src="../images/output/content/stata-wave/stata-wave.jpg" alt="" border=3 height=100 width=300></img></th>
+        <td><img src="./images/images/input/content/stata.jpg" alt="" border=3 height=100 width=300></img></th>
+        <td><img src="./images/input/style/wave.jpg" alt="" border=3 height=100 width=300></img></th>
+        <td><img src="./images/output/content/stata-wave/stata-wave.jpg" alt="" border=3 height=100 width=300></img></th>
     </tr>
 </table>
 
