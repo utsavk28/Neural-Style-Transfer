@@ -22,27 +22,27 @@
     </tr>
     <tr>
         <td>Random-Optimization Based</td>
-        <td><img width="300" src="./images/input/content/chicago.jpg"></img></th>
-        <td><img width="300" src="./images/input/style/wave.jpg"></img></th>
-        <td><img width="300" src="./images/output/random/chicago-wave/chicago-wave.jpg" ></img></th>
+        <td><img width="400" src="./images/input/content/chicago.jpg"></img></th>
+        <td><img width="400" src="./images/input/style/wave.jpg"></img></th>
+        <td><img width="400" src="./images/output/random/chicago-wave/chicago-wave.jpg" ></img></th>
     </tr>
     <tr>
         <td>Content-Optimization Based</td>
-        <td><img width="300" src="./images/input/content/chicago.jpg"></img></th>
-        <td><img width="300" src="./images/input/style/wave.jpg"></img></th>
-        <td><img width="300" src="./images/output/content/chicago-wave/chicago-wave.jpg" ></img></th>
+        <td><img width="400" src="./images/input/content/chicago.jpg"></img></th>
+        <td><img width="400" src="./images/input/style/wave.jpg"></img></th>
+        <td><img width="400" src="./images/output/content/chicago-wave/chicago-wave.jpg" ></img></th>
     </tr>
     <tr>
         <td>Random-Optimization Based</td>
-        <td><img width="300" src="./images/input/content/stata.jpg"></img></th>
-        <td><img width="300" src="./images/input/style/hampson.jpg"></img></th>
-        <td><img width="300" src="./images/output/random/stata-hampson/stata-hampson.jpg" ></img></th>
+        <td><img width="400" src="./images/input/content/stata.jpg"></img></th>
+        <td><img width="400" src="./images/input/style/hampson.jpg"></img></th>
+        <td><img width="400" src="./images/output/random/stata-hampson/stata-hampson.jpg" ></img></th>
     </tr>
     <tr>
         <td>Content-Optimization Based</td>
-        <td><img width="300" src="./images/input/content/stata.jpg"></img></th>
-        <td><img width="300" src="./images/input/style/hampson.jpg"></img></th>
-        <td><img width="300" src="./images/output/content/stata-hampson/stata-hampson.jpg" ></img></th>
+        <td><img width="400" src="./images/input/content/stata.jpg"></img></th>
+        <td><img width="400" src="./images/input/style/hampson.jpg"></img></th>
+        <td><img width="400" src="./images/output/content/stata-hampson/stata-hampson.jpg" ></img></th>
     </tr>
 </table>
 
