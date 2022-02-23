@@ -15,14 +15,34 @@
 
 <table align="center">
     <tr>
+        <th>Type</th>
         <th>Content Image</th>
         <th>Style Image</th>
         <th>Result </th>
     </tr>
     <tr>
-        <td><img src="./images/input/content/stata.jpg"></img></th>
+        <td>Random-Optimization Based</td>
+        <td><img src="./images/input/content/chicago.jpg"></img></th>
         <td><img src="./images/input/style/wave.jpg"></img></th>
-        <td><img src="./images/output/content/stata-wave/stata-wave.jpg" ></img></th>
+        <td><img src="./images/output/random/chicago-wave/chicago-wave.jpg" ></img></th>
+    </tr>
+    <tr>
+        <td>Content-Optimization Based</td>
+        <td><img src="./images/input/content/chicago.jpg"></img></th>
+        <td><img src="./images/input/style/wave.jpg"></img></th>
+        <td><img src="./images/output/content/chicago-wave/chicago-wave.jpg" ></img></th>
+    </tr>
+    <tr>
+        <td>Random-Optimization Based</td>
+        <td><img src="./images/input/content/stata.jpg"></img></th>
+        <td><img src="./images/input/style/la_muse.jpg"></img></th>
+        <td><img src="./images/output/random/stata-la_muse/stata-la_muse.jpg" ></img></th>
+    </tr>
+    <tr>
+        <td>Content-Optimization Based</td>
+        <td><img src="./images/input/content/stata.jpg"></img></th>
+        <td><img src="./images/input/style/la_muse.jpg"></img></th>
+        <td><img src="./images/output/content/stata-la_muse/stata-la_muse.jpg" ></img></th>
     </tr>
 </table>
 
